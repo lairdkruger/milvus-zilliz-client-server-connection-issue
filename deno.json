@@ -1,0 +1,10 @@
+{
+  "tasks": {
+    "dev": "deno run --watch main.ts"
+  },
+  "imports": {
+    "@oak/oak": "jsr:@oak/oak@^17.1.4",
+    "@openai/openai": "jsr:@openai/openai@^4.79.2",
+    "@zilliz/milvus2-sdk-node": "npm:@zilliz/milvus2-sdk-node@^2.5.4"
+  }
+}
