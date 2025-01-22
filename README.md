@@ -1,3 +1,5 @@
+Replace globals with your own zilliz/milvus credentials
+
 To run locally
 deno run --allow-env --allow-net --allow-read --allow-scripts main.ts
 
